@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Animal/Animal.iml" filepath="$PROJECT_DIR$/Animal/Animal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cloneable/Cloneable.iml" filepath="$PROJECT_DIR$/Cloneable/Cloneable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GenericMethodDemo/GenericMethodDemo.iml" filepath="$PROJECT_DIR$/../GenericMethodDemo/GenericMethodDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/House/House.iml" filepath="$PROJECT_DIR$/House/House.iml" />
       <module fileurl="file://$PROJECT_DIR$/StopWatch/StopWatch.iml" filepath="$PROJECT_DIR$/StopWatch/StopWatch.iml" />
     </modules>
